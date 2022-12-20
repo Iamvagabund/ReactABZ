@@ -1,0 +1,18 @@
+.btn {
+  width: 100px;
+  border-radius: 80px;
+  background-color: #F4E041;
+  padding: 4px 0;
+  transition: 0.3s;
+  border: none;
+  color: rgba(0, 0, 0, 0.87);
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #FFE302;
+}
+
+.btnMore {
+  width: 120px;
+}

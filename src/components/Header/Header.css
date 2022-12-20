@@ -1,0 +1,21 @@
+.header {
+  background-color: #FFF;
+}
+.container {
+  width: 1170px;
+  margin: 0 auto;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.header__logo img {
+  width: 100%;
+  max-width: 104px;
+  height: 26px;
+  vertical-align: middle;
+}
+.header__buttons {
+  display: flex;
+  gap: 10px;
+}
